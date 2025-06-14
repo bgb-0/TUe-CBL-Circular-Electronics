@@ -4967,6 +4967,16 @@
 		)
 		(uuid "12603c91-cd56-47de-a147-5b2d0c91237d")
 	)
+	(text "0"
+		(exclude_from_sim no)
+		(at 268.986 193.548 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "154fb59d-56c9-4222-98ae-8163a74647da")
+	)
 	(text "Off-board buttons between BTNx and GND.\nActive-low input configuration."
 		(exclude_from_sim no)
 		(at 241.554 138.176 0)
@@ -4986,6 +4996,26 @@
 			)
 		)
 		(uuid "3c843b34-779a-4757-a40d-84659f840182")
+	)
+	(text "12-06-2025"
+		(exclude_from_sim no)
+		(at 215.138 193.294 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "858d07ce-5229-4edf-a0a5-da15acd57179")
+	)
+	(text "ReVibe ESP32 Audio PCB Prototype"
+		(exclude_from_sim no)
+		(at 210.058 189.738 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "8d7b858e-a920-40f6-a60c-fd8ec6d34c28")
 	)
 	(text "USB-C Power Only\n"
 		(exclude_from_sim no)
