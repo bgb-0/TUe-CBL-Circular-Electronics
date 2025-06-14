@@ -2,7 +2,6 @@
 This repository contains the PCB design files (KiCad 9), schematic, and 3D model image
 for a prototype modular bluetooth audio board, based on te ESP32-Mini-1 module.
 This is a prototype PCB designed for a modular bluetooth speaker, for the Multidisciplinary CBL (4CBLW00) course of year 2024/2025, made possible with help from Darije Caic.
-Design includes a ESP32-Mini chipset that functions as a Bluetooth A2DP sink, which uses the built-in DAC to p
 <div align="center">
   <img src="/pictures/3D_front_render.png" alt="A 3D render of the front side of the PCB" width="400"/>
 </div>
